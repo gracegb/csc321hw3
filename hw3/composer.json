@@ -1,1 +1,5 @@
-{}
+{
+    "buildpacks": [
+      { "url": "heroku/php" }
+    ]
+  }
